@@ -1,6 +1,7 @@
 
 
 
+
 Aula De git e GitHub.
 
 Lista de Alunos:
@@ -8,3 +9,5 @@ Lista de Alunos:
 Patrick
 Vitor
 Rafaela
+Bruno
+Caio
